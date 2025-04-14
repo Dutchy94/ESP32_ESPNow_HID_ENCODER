@@ -6,9 +6,9 @@ In diesem Projekt wird ein Drehgeber („Rotary Encoder“) kabellos über ESP-N
 
 ## 📺 Video zum Projekt
 
-➡️ **YouTube-Video ansehen:** [![Zum Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+➡️ **YouTube-Video ansehen:** [![Zum Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/7NnEgXOPL9s)
 
-📌 **YouTube-Kanal:** [Mein Technik-Kanal](https://www.youtube.com/@dein-kanalname)
+📌 **YouTube-Kanal:** [Mein Technik-Kanal](https://www.youtube.com/channel/UCBEnu0tEb6VZ2NwIN-1uIiw)
 
 ---
 
@@ -44,10 +44,10 @@ In diesem Projekt wird ein Drehgeber („Rotary Encoder“) kabellos über ESP-N
 
 ## 🧰 Projektdateien
 
-- `mac_reader.ino` – Zeigt die MAC-Adresse des ESP32
-- `encoder_test.ino` – Testet Encoder mit serieller Ausgabe
-- `espnow_sender.ino` – Sendet den Encoder-Wert per ESP-NOW
-- `espnow_receiver_hid.ino` – Empfängt Daten und gibt sie als Tastatureingabe weiter
+- `ScanMac.ino` – Zeigt die MAC-Adresse des ESP32
+- `EncoderOnly.ino` – Testet Encoder mit serieller Ausgabe
+- `Sender.ino` – Sendet den Encoder-Wert per ESP-NOW
+- `EmpfaengerMitEingabe.ino` – Empfängt Daten und gibt sie als Tastatureingabe weiter
 
 Jede Datei ist ausführlich kommentiert.
 
