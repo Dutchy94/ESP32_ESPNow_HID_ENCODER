@@ -4,13 +4,7 @@ In diesem Projekt wird ein Drehgeber („Rotary Encoder“) kabellos über ESP-N
 
 ---
 
-## 📺 Video zum Projekt
 
-➡️ **YouTube-Video ansehen:** [![Zum Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/7NnEgXOPL9s): #
-
-📌 **YouTube-Kanal:** [Mein Technik-Kanal](https://www.youtube.com/channel/UCBEnu0tEb6VZ2NwIN-1uIiw): #
-
----
 
 ## 📦 Projektübersicht
 
