@@ -65,7 +65,7 @@ Jede Datei ist ausführlich kommentiert.
 
 ## 📫 Feedback & Support
 
-Hat dir das Projekt gefallen? Lass gerne einen **Kommentar**, ein **Like** oder ein **Abo** auf YouTube da! Fragen oder Verbesserungsvorschläge gerne direkt unter dem Video oder per Issue hier auf GitHub.
+Hat dir das Projekt gefallen? Fragen oder Verbesserungsvorschläge gerne direkt unter dem Video oder per Issue hier auf GitHub.
 
 ---
 
